@@ -1,0 +1,33 @@
+Action Taken:- ✍
+
+1️⃣ Data Cleaning:-
+1.1 Checked for duplication and missing values.
+1.2 Give each column a specified data type.
+
+2️⃣ Data Processing:-
+2.1 By transferring information from the date columns into a new column for months, it was possible to analyze monthly sales.
+2.2 Ages were divided into several groups to provide an age group column, allowing sales analysis by age groups.
+
+3️⃣ Data Analysis:-
+3.1 Created a pivot table to offer a thorough analysis of the data.
+3.2 created charts using the pivot table to make data analysis easier, achieving the following goals:-
+a. Compared sales and orders using just one chart.
+b. Determined which month had the most orders and sales.
+c. Decided whether men or women will make up the majority of buyers in 2023.
+d. Investigated the different order statuses in 2023.
+e. Name the top five states Contributing to sales.
+f. Found the channel producing the most sales.
+g. Defined the selling category with the most items.
+h. Based on the quantity of orders, the association between age and gender was examined.
+
+👁Insights:-
+📌 The month of March saw the highest sales volume.
+📌 The tendency to buy was clearly biassed towards women (64% of the client base), who made up. 📈
+📌 The adult group, notably those between the ages of 30 and 49, made the most contribution.
+📌 Geographically speaking, Maharashtra, Karnataka, and Uttar Pradesh showed the best results.
+📌 The vast majority of orders (92%) had a status of "delivered."
+Amazon, Myntra, and Flipkart were said to have made significant contributions to sales.
+
+Conclusion to improve Vrinda Store:- 🖊
+
+"Women in Maharashtra, Karnataka, and Uttar Pradesh who are 30 to 49 years old should be the target audience for direct marketing by showing discounts, Ads, Coupons available from Amazon, Myntra, and Flipkart" 🔎
